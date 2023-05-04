@@ -4,4 +4,4 @@ function addingEventListener () {
     input.addEventListener('click', () => {
       console.log('Button was clicked!');
     });
-  }
+}
